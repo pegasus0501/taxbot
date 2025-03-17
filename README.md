@@ -1,7 +1,3 @@
-Here's a **README.md** file for your GitHub repository:
-
----
-
 ## **Tax Query Assistant**
 A web-based AI-powered assistant designed for auditors to handle **tax-related queries**. This system ensures that only tax-specific questions are answered using **GPT-4**, with all responses stored securely in **MongoDB** for auditing.
 
